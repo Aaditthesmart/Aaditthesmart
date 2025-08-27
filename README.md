@@ -1,7 +1,7 @@
 ## Hi, I'm Aadit Bansal
 
 🧠 Btech-Computer Science Engineering Student at SRM AP</br>
-💻 Love technology, coding and learning and exploring new things apart from these domains too.</br>
+💻 Love technology, coding and learning and exploring new things also apart from these domains too.</br>
 ✨ Like Chess, Reading books, listening music, sketching and entrepreneurship.
 
 ## 🌐 Socials:
