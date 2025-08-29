@@ -2,7 +2,7 @@
 
 🧠 Btech-Computer Science Engineering Student at SRM AP</br>
 💻 Love technology, coding and learning and exploring new things also apart from these domains too.</br>
-✨ Like Chess, Reading books, listening music, sketching and entrepreneurship.
+✨ Like playing chess, reading books, listening music, sketching and entrepreneurship.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditbansal08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadit-bansal-175960239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaditbansal2008@gmail.com) 
