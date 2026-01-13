@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=5CF700&center=true&vCenter=true&width=435&lines=+I'm+Aadit+Bansal;ML+Developer;Aspiring+ML+Engineer)](https://git.io/typing-svg)
+
 ## Hi, I'm Aadit Bansal
 
 🧠 Btech-Computer Science Engineering Student at SRM AP</br>
