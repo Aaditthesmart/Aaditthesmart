@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=5CF700&center=true&vCenter=true&width=435&lines=+I'm+Aadit+Bansal;ML+Developer;Aspiring+ML+Engineer)](https://git.io/typing-svg)
+
+<div align="center" style="background-color: #1a1b26; padding: 10px; border-radius: 8px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=5CF700&background=1A1B2600&center=true&vCenter=true&width=435&lines=I'm+Aadit+Bansal;ML+Developer;Aspiring+ML+Engineer" alt="Typing SVG" />
+</div>
 
 ## Hi, I'm Aadit Bansal
 
